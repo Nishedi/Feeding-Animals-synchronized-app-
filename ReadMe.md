@@ -1,4 +1,4 @@
-**Konrad Pempera
+* Konrad Pempera
      * Celem projektu było oprogramowanie symulacji laboratorium, w którym laboranci (worker) karmią zwierzęta (animal)
      * W  przypadku gdy zwierzęta nie mają jedzenia, tracą zdrowie, gdy całkowicie je stracą umierają
      * Zdrowie zwierząt się regeneruje gdy stan ich pożywienia jest większy niż 80
