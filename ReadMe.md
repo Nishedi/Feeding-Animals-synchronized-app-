@@ -15,6 +15,7 @@
      * Po lewej stronie znajduje się animacja ukazująca status napełniania zbiorniczka pracownika
      * aplikacja została skompliwona za pomocą wywołania z katalogu gdzie znajuje się aplikacja następujących poleceń: javac -d bin src\controller\Controller.java src\controller\Movement.java src\controller\Parameters.java src\controller\Sensors.java src\controller\Storage.java src\main\Application.java src\threads\AnimalThread.java src\threads\WorkerThread.java src\view\AppFrame.java src\view\DrawPanel.java src\view\DrawSpeeds.java
      * Plik jar został wygenerowany z następującego polecenia
-     * jar -cfv lab05.jar -C bin .
+     * jar -cfv feeding_animals.jar -C bin .
      * Plik jar jest możliwy do uruchomienia z następującego polecenia
-     * java -p lab05.jar -m lab05/main.Application
+     * java -p feeding_animals.jar -m lab05/main.Application
+     * jednocześnie aplikacje można urochomić po podwójnym kliknięciu
